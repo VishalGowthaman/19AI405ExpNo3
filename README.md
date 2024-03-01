@@ -67,7 +67,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 <hr>
 
-## program
+## Program
 <h3>Name: VISHAL GOWTHAMAN K R</h3>
 <h3>Register Number:212221230123</h3>
 ```
